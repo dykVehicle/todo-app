@@ -7,6 +7,7 @@ const nextConfig: NextConfig = {
   },
   basePath: '/todo-app',
   assetPrefix: '/todo-app',
+  distDir: 'docs',
 };
 
 export default nextConfig;
